@@ -1,6 +1,6 @@
 # BeerApp
 
-iOS Code Challenge
+Easy iOS tutorial for MVVM + Rx
 
 ## Requirements
 * iOS 13.0+
